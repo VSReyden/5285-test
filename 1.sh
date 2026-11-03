@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello 22"
+echo "Hello students"
